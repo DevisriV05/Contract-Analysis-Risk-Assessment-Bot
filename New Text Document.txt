@@ -1,0 +1,89 @@
+Sample Vendor/Service Agreement (IT Services – India SME)
+VENDOR / SERVICE AGREEMENT
+This Service Agreement ("Agreement") is made and entered into on this 10th day of March 2026 at Hyderabad, Telangana, India.
+BETWEEN
+XYZ Startups Private Limited
+A company incorporated under the Companies Act, 2013, having CIN: U72900TG2023PTC123456, registered office at Suite 201, Cyber Towers, Madhapur, Hyderabad, Telangana – 500081, represented by its Director, Ms. Priya Mehta (hereinafter referred to as the "Client" or "Company", which expression shall include its successors and permitted assigns) of the ONE PART;
+AND
+TechSolutions Freelance Services
+Proprietorship firm owned by Mr. Vikram Singh, aged 35 years, residing at House No. 12, Jubilee Hills, Hyderabad, Telangana – 500033, holding PAN: DEFPS5678G, GSTIN: 36DEFPS5678G1Z2 (hereinafter referred to as the "Vendor" or "Service Provider", which expression shall include its heirs, executors, administrators and permitted assigns) of the OTHER PART.
+WHEREAS
+A. The Client is a startup engaged in e-commerce operations and requires custom software development and maintenance services.
+B. The Vendor has represented that it has the necessary expertise, resources, and qualifications to provide such IT services.
+C. The parties wish to set forth the terms under which the Vendor shall provide services to the Client.
+NOW THEREFORE, in consideration of the mutual covenants herein, the parties agree as follows:
+1. SCOPE OF SERVICES
+1.1 The Vendor shall provide the following services ("Services"):
+a) Development of a custom e-commerce web application (frontend in React, backend in Node.js).
+b) Monthly maintenance, bug fixes, and updates post-launch.
+c) Integration with payment gateways (Razorpay) and logistics APIs.
+1.2 Deliverables:
+
+Phase 1: UI/UX design & prototype – due within 30 days.
+Phase 2: Full development & testing – due within 90 days from start.
+Ongoing: Monthly support reports and uptime ≥ 99%.
+1.3 The Vendor shall perform Services in a professional manner, adhering to industry standards.
+
+2. TERM
+2.1 This Agreement commences on 1st April 2026 and continues for an initial term of 12 (twelve) months.
+2.2 Auto-renewal: Automatically renews for successive 6-month periods unless either party gives 60 days' written notice of non-renewal.
+2.3 Lock-in: Client cannot terminate without cause in the first 6 months.
+3. FEES & PAYMENT
+3.1 Total project fee for development: ₹4,50,000 (Rupees Four Lakhs Fifty Thousand only) + 18% GST.
+3.2 Maintenance: ₹15,000 per month + GST (post-launch).
+3.3 Payment schedule:
+
+30% advance on signing.
+40% on prototype approval.
+30% on final delivery & acceptance.
+Monthly maintenance invoiced on the 1st of each month.
+3.4 Late payments attract 1.5% interest per month. All payments via bank transfer / UPI.
+
+4. CONFIDENTIALITY
+4.1 Both parties shall keep confidential all business, technical, and client data disclosed.
+4.2 Obligation survives for 3 (three) years after termination.
+5. INTELLECTUAL PROPERTY
+5.1 Upon full payment, the Vendor assigns all IP rights (code, designs, documentation) in the deliverables to the Client.
+5.2 Vendor grants a perpetual, royalty-free license for any pre-existing tools used.
+6. TERMINATION
+6.1 Either party may terminate for material breach with 30 days' notice to cure.
+6.2 Client may terminate for convenience after initial 6 months with 60 days' notice and payment of outstanding fees.
+6.3 Vendor may terminate unilaterally if payments are overdue by 45 days (no notice required after reminder).
+6.4 On termination, Vendor shall deliver all work-in-progress and cease Services.
+7. INDEMNITY
+7.1 Vendor indemnifies Client against third-party claims arising from Vendor's breach, negligence, or infringement of IP.
+7.2 Client indemnifies Vendor against claims arising from Client-provided data or instructions.
+8. LIMITATION OF LIABILITY
+8.1 Neither party liable for indirect, consequential, or punitive damages.
+8.2 Total liability capped at fees paid in the preceding 12 months.
+9. PENALTY / LIQUIDATED DAMAGES
+9.1 If Vendor delays delivery beyond 15 days (without force majeure), penalty of ₹5,000 per week.
+9.2 Client pays late fee interest as per Clause 3.4.
+10. NON-COMPETE
+10.1 For 12 months post-termination, Vendor shall not provide similar services to Client's direct competitors (listed in Schedule A).
+11. FORCE MAJEURE
+Neither party liable for delays due to events beyond control (e.g., floods, government restrictions, cyber-attacks not caused by negligence).
+12. GOVERNING LAW & DISPUTE RESOLUTION
+12.1 Governed by laws of India.
+12.2 Disputes resolved first by negotiation, then arbitration in Hyderabad under Arbitration and Conciliation Act, 1996 (sole arbitrator).
+12.3 Courts in Hyderabad have exclusive jurisdiction.
+13. MISCELLANEOUS
+13.1 Entire Agreement.
+13.2 Amendments in writing only.
+13.3 Severability.
+13.4 Notices via email/registered post.
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+For XYZ Startups Private Limited
+
+Ms. Priya Mehta
+Director
+Date: ________________
+Vendor
+
+Mr. Vikram Singh
+Proprietor
+Date: ________________
+Witnesses:
+
+__________________ Signature: __________________
+__________________ Signature: __________________

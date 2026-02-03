@@ -1,0 +1,70 @@
+Sample Employment Agreement (India – SME Version)
+EMPLOYMENT AGREEMENT
+This Employment Agreement ("Agreement") is made and entered into on this 15th day of January 2026 at Hyderabad, Telangana, India.
+BETWEEN
+ABC Technologies Private Limited
+A company incorporated under the Companies Act, 2013, having its registered office at Plot No. 45, Hi-Tech City, Hyderabad, Telangana – 500081, represented by its Director, Mr. Rajesh Kumar (hereinafter referred to as the "Employer" or "Company", which expression shall, unless repugnant to the context or meaning thereof, include its successors and permitted assigns) of the ONE PART;
+AND
+Mr. Ramesh Sharma
+Son of Mr. Anil Sharma, aged about 32 years, residing at Flat No. 302, Green Valley Apartments, Gachibowli, Hyderabad, Telangana – 500032, holding PAN: ABCPS1234F (hereinafter referred to as the "Employee", which expression shall, unless repugnant to the context or meaning thereof, include his heirs, executors, administrators and permitted assigns) of the OTHER PART.
+WHEREAS
+A. The Employer is engaged in the business of software development and IT services.
+B. The Employee has represented that he possesses the requisite skills, experience and qualifications for the position of Senior Software Developer.
+C. The Employer wishes to employ the Employee, and the Employee wishes to accept such employment, on the terms and conditions set forth herein.
+NOW THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties hereto agree as follows:
+1. POSITION AND DUTIES
+1.1 The Employee shall be employed as Senior Software Developer.
+1.2 The Employee shall perform all duties assigned by the Employer, including but not limited to developing software applications, writing clean code, participating in code reviews, and meeting project deadlines.
+1.3 The Employee shall devote his full time, attention, and best efforts to the business of the Employer during working hours.
+2. TERM OF EMPLOYMENT
+2.1 This employment shall commence on 1st February 2026 and shall continue until terminated in accordance with Clause 8.
+2.2 The first 6 (six) months shall be a probationary period, during which either party may terminate with 15 days' written notice.
+3. PLACE OF WORK
+The Employee shall primarily work from the Company's office in Hyderabad or remotely as directed. The Employer reserves the right to change the place of work.
+4. COMPENSATION
+4.1 Basic Salary: ₹85,000 (Rupees Eighty-Five Thousand only) per month.
+4.2 Allowances: House Rent Allowance ₹25,000, Special Allowance ₹20,000 (all monthly).
+4.3 Annual CTC: Approximately ₹18,00,000 (including PF, gratuity, and bonuses as applicable).
+4.4 Salary shall be paid on or before the 7th day of each month via bank transfer.
+4.5 Statutory deductions (TDS, PF, professional tax, etc.) shall apply as per Indian laws.
+5. WORKING HOURS & LEAVE
+5.1 Normal working hours: 9:30 AM to 6:30 PM, Monday to Friday (with flexible timing as per project needs).
+5.2 Entitled to 21 days paid annual leave, 12 days sick leave, and public holidays as per Telangana state calendar.
+6. CONFIDENTIALITY
+6.1 The Employee shall not disclose any Confidential Information (including source code, client data, business strategies) during or after employment.
+6.2 This obligation survives termination for 5 (five) years.
+7. INTELLECTUAL PROPERTY
+7.1 All inventions, code, designs, or work product created by the Employee during employment shall be the exclusive property of the Employer.
+7.2 The Employee assigns all IP rights to the Employer.
+8. TERMINATION
+8.1 Either party may terminate after probation with 60 days' written notice (or salary in lieu).
+8.2 The Employer may terminate immediately for gross misconduct, breach of confidentiality, or fraud (no notice or pay in lieu).
+8.3 Upon termination, the Employee shall return all company property.
+9. NON-COMPETE & NON-SOLICITATION
+9.1 For 12 (twelve) months post-termination, the Employee shall not:
+a) Engage in similar business within 50 km of Hyderabad;
+b) Solicit the Company's clients or employees.
+10. INDEMNITY
+The Employee shall indemnify the Employer against any losses arising from his willful misconduct or breach of this Agreement.
+11. GOVERNING LAW & DISPUTE RESOLUTION
+11.1 This Agreement shall be governed by the laws of India.
+11.2 Any disputes shall be subject to exclusive jurisdiction of courts in Hyderabad.
+11.3 Disputes may first be attempted to be resolved through amicable discussion, failing which through arbitration under the Arbitration and Conciliation Act, 1996 (seat: Hyderabad).
+12. FORCE MAJEURE
+Neither party shall be liable for delay or failure due to events beyond control (e.g., natural disasters, government orders).
+13. MISCELLANEOUS
+13.1 Entire Agreement: This document constitutes the entire understanding.
+13.2 Amendments: Must be in writing and signed by both parties.
+13.3 Severability: Invalid provisions shall not affect the remainder.
+IN WITNESS WHEREOF, the parties have executed this Agreement on the day and year first above written.
+For ABC Technologies Private Limited
+
+Mr. Rajesh Kumar
+Director
+Employee
+
+Mr. Ramesh Sharma
+Witnesses:
+
+Name: __________________ Signature: __________________
+Name: __________________ Signature: __________________
